@@ -1,5 +1,5 @@
-# ESS: using R on the cluster through emacs
-Someone in the lab wanted to start using R remotely on the cluser using emacs and asked me for directions. 
+# Using R on the cluster through emacs
+Someone in the lab wanted to start using R remotely on the cluster using emacs and asked me for directions. 
 
 Some preliminary info: emacs on our cluster has the add on package [ESS](http://ess.r-project.org/) (Emacs Speaks Statistics) which makes it easy to edit scripts and interact with statistical programs like R.
 
